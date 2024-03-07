@@ -1,4 +1,4 @@
-Stateless Claims Management System
+Stateless CMS
 will be changed to
-Stateful Claims Management System?????
+Stateful CMS?????
 MADE THIS LINE IN FEATURE BRANCH
